@@ -11,7 +11,7 @@
     "dotenv": "^8.2.0",
     "genius-lyrics": "^1.0.9",
     "genius-lyrics-api": "^1.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.5.2",
     "request-promise": "^4.2.5",
     "string-similarity": "^4.0.1"
